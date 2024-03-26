@@ -1,4 +1,4 @@
-# Drinking-Water-Potability-Prediction
+# Drinking Water Potability Prediction
 This is a project to predict potability of drinking water.
 
 Utilized Pandas for data manipulation and exploration. Employed Seaborn for visual exploration with pairplots and heatmaps.
